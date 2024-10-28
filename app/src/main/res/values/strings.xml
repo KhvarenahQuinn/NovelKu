@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">NovelKu</string>
+    <string name="title1">The Silent Ocean</string>
+    <string name="title2">Whispers of the Past</string>
+    <string name="title3">Beneath the Stars</string>
+    <string name="title4">The Lost Kingdom</string>
+    <string name="title5">Echoes in Time</string>
+    <string name="title6">The Hidden Path</string>
+    <string name="title7">A Dance with Shadows</string>
+    <string name="title8">Fragments of Tomorrow</string>
+    <string name="title9">The Forgotten Forest</string>
+    <string name="title10">Fires of Destiny</string>
+    <string name="title11">Voices from the Abyss</string>
+    <string name="title12">The Dreamweaver Tale</string>
+    <string name="title13">Journey to the Unknown</string>
+    <string name="title14">Secrets of the Night</string>
+    <string name="title15">The Clockwork City</string>
+    <string name="title16">Beyond the Horizon</string>
+    <string name="title17">The Last Empress</string>
+    <string name="title18">Labyrinth of Lies</string>
+    <string name="title19">Winds of Change</string>
+    <string name="title20">The Illusionist Apprentice</string>
+
+    <string name="author1">Evelyn Carter</string>
+    <string name="author2">James Mitchell</string>
+    <string name="author3">Sophia Johnson</string>
+    <string name="author4">Liam Thompson</string>
+    <string name="author5">Olivia Martinez</string>
+    <string name="author6">William Brown</string>
+    <string name="author7">Mia Wilson</string>
+    <string name="author8">Lucas Anderson</string>
+    <string name="author9">Isabella Taylor</string>
+    <string name="author10">Ethan White</string>
+    <string name="author11">Charlotte Harris</string>
+    <string name="author12">Noah Lewis</string>
+    <string name="author13">Ava Walker</string>
+    <string name="author14">Benjamin Hall</string>
+    <string name="author15">Ella Allen</string>
+    <string name="author16">Alexander Young</string>
+    <string name="author17">Amelia King</string>
+    <string name="author18">Michael Wright</string>
+    <string name="author19">Sofia Scott</string>
+    <string name="author20">Daniel Green</string>
+</resources>
